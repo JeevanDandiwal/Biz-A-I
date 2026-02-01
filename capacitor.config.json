@@ -1,0 +1,6 @@
+{
+  "appId": "com.bizai.app",
+  "appName": "BIZ AI",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "BIZ AI",
+  "description": "A professional AI business consultant application helping entrepreneurs analyze their business, get daily insights, and learn business terms with adjustable complexity levels.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
